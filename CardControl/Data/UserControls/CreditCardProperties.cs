@@ -40,7 +40,11 @@ namespace CardControl.Data.UserControls
 
         public void Clear()
         {
-            _service.Clear(this);
+            creditMonthComboBox.SelectedItem = default;
+            creditYearComboBox.SelectedItem = default;
+            creditCardTextBox.Text = default;
+            cvvTextBox.Text = default;
+            //_service.Clear(this);
         }
 
         #endregion
