@@ -1,0 +1,7 @@
+D:\Project\CardControl\CardControl\bin\Debug\CardControl.dll
+D:\Project\CardControl\CardControl\bin\Debug\CardControl.pdb
+D:\Project\CardControl\CardControl\obj\Debug\CardControl.Data.UserControls.CreditCardProperties.resources
+D:\Project\CardControl\CardControl\obj\Debug\CardControl.csproj.GenerateResource.cache
+D:\Project\CardControl\CardControl\obj\Debug\CardControl.csproj.CoreCompileInputs.cache
+D:\Project\CardControl\CardControl\obj\Debug\CardControl.dll
+D:\Project\CardControl\CardControl\obj\Debug\CardControl.pdb
