@@ -29,7 +29,7 @@ namespace CardControl.Services
             var isNumberValid = data.Number.Length == 16 && numbeResult != 0;
             int.TryParse(data.CCV, out var ccv);
 
-            var isCCVValid = data.CCV.Length == 3 && ccv != 0;
+            var isCCVValid = data.CCV.Length == 3 && ccv >= 0;
             var isMonthValid = data.ExpirationMonth != 0;
             var isYearValid = data.ExpirationYear != 0;
 
